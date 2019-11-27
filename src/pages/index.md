@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hi, My name is Dan'
     section_id: hero
     component: HeroBlock
     content: >-
